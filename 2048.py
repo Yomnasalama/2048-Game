@@ -1,3 +1,4 @@
+  
 '''
 Assigning values to the grid
 The grid will look like this:
